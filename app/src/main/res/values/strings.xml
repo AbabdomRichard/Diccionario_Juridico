@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Diccionario Juridico</string>
+    <string name="updating_db"></string>
+    <string name="db_ok">:-)</string>
+    <string name="action_settings">Acerca de la Aplicación</string>
+    <string name="version">Version 1.0</string>
+    <string name="fuente">Fuente: Poder Judicial </string>
+    <string name="palabra">Palabra</string>
+    <string name="definicion">Definición</string>
+</resources>
